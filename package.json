@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode2021-day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/alkaline184/adventofcode2021-day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alkaline184/adventofcode2021-day2/issues"
+  },
+  "homepage": "https://github.com/alkaline184/adventofcode2021-day2#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
